@@ -33,7 +33,7 @@ public class PasswordVerifier {
         }
 
         // All conditions passed, password is valid
-        return "Password verification passed!";
+        return "Password verification passed! the password is valid";
     }
 }
 
